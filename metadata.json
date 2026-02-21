@@ -1,0 +1,5 @@
+{
+  "name": "Jobify - Smart Job Portal",
+  "description": "A comprehensive job portal connecting seekers, companies, and admins. Features role-based access, job management, application tracking, and AI-powered job description generation.",
+  "requestFramePermissions": []
+}
